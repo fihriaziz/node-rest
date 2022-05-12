@@ -1,7 +1,6 @@
 {
   "name": "top-up",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,5 +10,17 @@
   "license": "ISC",
   "devDependencies": {
     "@faker-js/faker": "^6.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fihriaziz/node-rest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fihriaziz/node-rest/issues"
+  },
+  "homepage": "https://github.com/fihriaziz/node-rest#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.1"
   }
 }
