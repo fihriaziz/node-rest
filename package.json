@@ -22,6 +22,7 @@
   "homepage": "https://github.com/fihriaziz/node-rest#readme",
   "description": "",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "mongodb": "3.6.9"
   }
 }
